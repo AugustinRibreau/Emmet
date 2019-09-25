@@ -28,4 +28,4 @@ Envoies juste une pull-request :)
 ## Auteur
 - Augustin Ribreau - <i>Developpeur</i> - <a href="https://augustin.ribreau.co/" target="_blank">augustin.ribreau.co</a>
 
-Voir aussi la liste des <a href="https://github.com/AugustinRibreau/Emmet/edit/master/source.txt" target="_blank">sources</a> ayant été utilisé.
+Voir aussi la liste des <a href="https://github.com/AugustinRibreau/Emmet/blob/master/source.txt" target="_blank">sources</a> ayant été utilisé.
