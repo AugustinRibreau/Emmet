@@ -26,6 +26,6 @@ Emmet utilise une syntaxe similaire à celle des sélecteurs CSS pour décrire l
 Envoies juste une pull-request :)
 
 ## Auteur
-- Augustin Ribreau - <i>Developpeur</i> - <a href="https://augustin.ribreau.co/" target="_blank">augustin.ribreau.co</a>
+- Augustin Ribreau - <i>Developpeur</i> - <a href="https://augustinribreau.com/" target="_blank">augustinribreau.com</a>
 
 Voir aussi la liste des <a href="https://github.com/AugustinRibreau/Emmet/blob/master/source.txt" target="_blank">sources</a> ayant été utilisé.
